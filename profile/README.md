@@ -11,9 +11,9 @@ GPT Image 2 is a focused image generation and reference-image editing workspace 
 
 ## Official Resources
 
-- Website: [gptimage2.top](https://gptimage2.top)
+- Website: [GPT Image 2 AI image generator and editor](https://gptimage2.top)
 - Public repository: [gptimage2-top/gpt-image-2](https://github.com/gptimage2-top/gpt-image-2)
-- Feedback and issues: [github.com/gptimage2-top/gpt-image-2/issues](https://github.com/gptimage2-top/gpt-image-2/issues)
+- Feedback and issues: [GPT Image 2 public feedback on GitHub](https://github.com/gptimage2-top/gpt-image-2/issues)
 - Roadmap: [ROADMAP.md](https://github.com/gptimage2-top/gpt-image-2/blob/main/ROADMAP.md)
 - Support: support@gptimage2.top
 
